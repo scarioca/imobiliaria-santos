@@ -1,1 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7d48c4"/>
+      <stop offset="100%" style="stop-color:#229be1"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <!-- House icon -->
+    <path d="M 8 32 L 22 18 L 36 32 L 36 52 L 8 52 Z" fill="none" stroke="url(#grad)" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M 18 52 L 18 38 L 26 38 L 26 52" fill="none" stroke="url(#grad)" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="22" cy="14" r="3" fill="url(#grad)"/>
+    <!-- Text -->
+    <text x="46" y="30" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Imobiliária</text>
+    <text x="46" y="48" font-family="Montserrat, Arial, sans-serif" font-size="16" font-weight="600" fill="url(#grad)">Santos</text>
+  </g>
+</svg>
 
